@@ -1,0 +1,1 @@
+sq <- function(x) sqrt(x)
